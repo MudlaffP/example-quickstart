@@ -1,6 +1,6 @@
 steps:
   - name: example-step
-    dockerRun:
+    containerRun:
       image: busybox
       script: |
         echo "### Environment variables from IceCI"

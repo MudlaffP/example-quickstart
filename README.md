@@ -6,4 +6,4 @@ This repository is a *GitHub template repository*, so please feel free to create
 
 ---
 
-_Kept cool &#x1f9ca; by [Icetek](https://icetek.io/)_
+Kept cool &#x1f9ca; by [Icetek](https://icetek.io/)
